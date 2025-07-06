@@ -1,0 +1,57 @@
+{
+  "1391384362381217812": {
+    "auto_ban": true,
+    "alert_channel": 1391392266597433446,
+    "admin_role": null,
+    "max_messages_per_minute": 10,
+    "raid_detection": true,
+    "link_filter": true,
+    "mention_limit": 5,
+    "quarantine_role": 1391392262524768336
+  },
+  "1250071078861275247": {
+    "auto_ban": true,
+    "alert_channel": 1391400459142696960,
+    "admin_role": null,
+    "max_messages_per_minute": 10,
+    "raid_detection": true,
+    "link_filter": true,
+    "mention_limit": 3,
+    "risk_threshold": 75,
+    "advanced_detection": true,
+    "quarantine_role": 1391400456500019231,
+    "lockdown_mode": false,
+    "whitelist_channels": [],
+    "trusted_users": []
+  },
+  "1391409742462714089": {
+    "auto_ban": true,
+    "alert_channel": 1391414048519884801,
+    "admin_role": null,
+    "max_messages_per_minute": 10,
+    "raid_detection": true,
+    "link_filter": true,
+    "mention_limit": 3,
+    "risk_threshold": 75,
+    "advanced_detection": true,
+    "quarantine_role": 1391414047823368305,
+    "lockdown_mode": false,
+    "whitelist_channels": [],
+    "trusted_users": []
+  },
+  "1235624948014514296": {
+    "auto_ban": true,
+    "alert_channel": 1391416147248681041,
+    "admin_role": null,
+    "max_messages_per_minute": 10,
+    "raid_detection": true,
+    "link_filter": true,
+    "mention_limit": 3,
+    "risk_threshold": 75,
+    "advanced_detection": true,
+    "quarantine_role": 1391416146225266730,
+    "lockdown_mode": false,
+    "whitelist_channels": [],
+    "trusted_users": []
+  }
+}
